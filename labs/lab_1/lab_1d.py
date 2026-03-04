@@ -8,7 +8,7 @@ You may assume that each input would have exactly one solution, and you may not 
 Derived from LeetCode problem: https://leetcode.com/problems/two-sum/ (leetcode easy)
 """
 
-# TODO: Find and resolve the bug in the following implementation. Create unit tests to verify your fix.
+# TODO DONE: Find and resolve the bug in the following implementation. Create unit tests to verify your fix.
 def two_sum(nums: list[int], target: int) -> list[int]:
     """
     Function that takes in a list of integers and a target integer, and returns the indices of the two numbers that add up to the target.
